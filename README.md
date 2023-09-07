@@ -1,2 +1,5 @@
 # chatbot-app
-ChatBot POC using chatbot-api
+
+<p align="center">
+  <strong>ChatBot KMM App</strong>
+</p>
